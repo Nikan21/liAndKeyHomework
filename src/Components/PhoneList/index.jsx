@@ -8,7 +8,7 @@ export default function liPhones() {
 
   return (
     <div>
-      <h4>Список контактов</h4>
+      <h4>Список контактов:</h4>
       <ul>{liPhonesNumbers}</ul>
     </div>
   );
