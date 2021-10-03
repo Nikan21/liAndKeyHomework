@@ -1,5 +1,5 @@
-import './App.css';
-import PhoneList from './Components/PhoneList/index'
+import "./App.css";
+import PhoneList from "./Components/PhoneList/index";
 
 function App() {
   return (
